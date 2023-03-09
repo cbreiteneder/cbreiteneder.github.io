@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Erstellung des Blogs
-description: Wie ich einen kostenlosten Blog auf GitHub Pages erstellt habe
-date: 2023-03-09 09:10:00 -0800
+description: Wie ich einen kostenlosen Blog auf GitHub Pages erstellt habe
+date: 2023-03-09 09:10:00 +0100
 tags: Blogging
 ---
 
