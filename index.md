@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hobby Enthusiast für Homelab-Projekte, diverse Tüfteleien und 3D-Druck, der Blog ist eher eine persönliche Sammlung von Anleitungen und Tipps für meine Hobby-Projekte.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Vielleicht helfen meine Einträge ja bei der Umsetzung eurer eigenen kleinen Projekte
