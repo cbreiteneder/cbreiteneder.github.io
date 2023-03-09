@@ -20,6 +20,7 @@ github_username: "cbreiteneder"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+timezone: "Europe/Vienna"
 
 rss: rss
 
