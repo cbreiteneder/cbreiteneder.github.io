@@ -47,3 +47,6 @@ defaults:
       type: post
     values:
       tags: Other
+
+google_analytics:
+  - G-XVV3QZ5EKK
