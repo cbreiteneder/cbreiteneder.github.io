@@ -12,9 +12,8 @@ Bis dato war eine Synology DS218+ mit einer VM und vier Docker-Containern als Ho
 Nach einiger Recherche bin ich auf den [ODROID-M1](https://www.hardkernel.com/shop/odroid-m1-with-8gbyte-ram/) von Hardkernel gestoßen. Der ODROID-M1 ist ein Einplatinencomputer, der für den Einsatz in einer Vielzahl von Embedded-System-Anwendungen entwickelt wurde.  
 
 ### Hardware
-Für den Homeserver habe ich mich für die folgenden Komponenten entschieden:
- 
- 
+Für den Homeserver habe ich mich für die folgenden Komponenten entschieden:  
+  
 | Komponente | Kaufpreis | Link |
 |--|--|--|
 | ODROID-M1 mit 8 GB RAM | € 129,95 | <https://www.pollin.de/p/odroid-m1-einplatinen-computer-8-gb-ram-811475> |
