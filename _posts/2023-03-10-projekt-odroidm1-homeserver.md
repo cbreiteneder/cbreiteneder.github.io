@@ -22,7 +22,7 @@ Für den Homeserver habe ich mich für die folgenden Komponenten entschieden:
 | Samsung 980 500 GB NVMe SSD M.2   | € 65,99 | <https://www.conrad.at/de/p/samsung-980-500-gb-interne-m-2-pcie-nvme-ssd-2280-m-2-nvme-pcie-3-0-x4-retail-mz-v8v500bw-2356600.html> |
 | **Summe** | **€ 217,84** | |
 
-Als zusätzliche Datenfestplatter werde ich eine 4TB Festplatte von einer externen Seagate Portable Drive ausbauen und in den Homeserver einbauen. 
+Als zusätzliche Datenfestplatte werde ich eine 4TB Festplatte von einer externen Seagate Portable Drive ausbauen und in den Homeserver einbauen. 
 
 Ein passendes Gehäuse werde ich selber mit meinem 3D-Drucker produzieren. 
 
@@ -37,4 +37,4 @@ Als Betriebssysteme möchte ich Ubuntu Server 22.04.2 LTS installieren und die f
 
 Die Services waren auch schon auf der Synology im Betrieb, weshalb ich versuchen werde die bestehenden Daten zu übernehmen.
 
-Soviel zu einer groben Beschreibung meines Projektes, beim nächsten Eintrag werde ich mich dem Zusammenbau und der Installation des Betriebssystems widmen. 
+Das sind einmal die Eckdaten meines Projektes, beim nächsten Eintrag werde ich mich dem Zusammenbau und der Installation des Betriebssystems widmen. 
